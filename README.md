@@ -1,5 +1,12 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxJeCuB5k5HcKTOqvVG_-Te5_Uf11HwQRIeZAIeJGpdN9VC3Bo&usqp=CAU" alt="masked" width="200" align="left"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxJeCuB5k5HcKTOqvVG_-Te5_Uf11HwQRIeZAIeJGpdN9VC3Bo&usqp=CAU" alt="masked" width="100" align="left"/>
+
+
+
+
+
+
+
 
 
 
@@ -132,6 +139,7 @@ Let's see our model parameters:
 
 Dataset size:  3788
 Train set size:  2272
+
 Validation set size:  757
 Test set size:  759
 
@@ -141,19 +149,39 @@ LEARNING_RATE = 0.001
 
 total_epoch = 20
 
+
 FINAL EPOCHS OF OUR MODEL
 
-EPOCH: 17 , Training Loss: 0.05358636488159618  
-            Validation Loss: 3.5607410681661804 
-            Accuracy:  **0.9854689564068693**
+
+EPOCH: 17 
+
+Training Loss: 0.05358636488159618 
+
+Validation Loss: 3.5607410681661804
+
+Accuracy:  **0.9854689564068693**
             
-EPOCH: 18 , Training Loss: 0.398578138448741  
-            Validation Loss: 2.0128642518747597  
-            Accuracy:  **0.9907529722589168**
+
+
+EPOCH: 18  
+
+Training Loss: 0.398578138448741  
+
+Validation Loss: 2.0128642518747597  
             
-EPOCH: 19 , Training Loss: 1.4577299662466388  
-            Validation Loss: 3.5445648041136337  
-            Accuracy:  **0.9841479524438573**
+Accuracy:  **0.9907529722589168**
+            
+
+
+EPOCH: 19 
+
+Training Loss: 1.4577299662466388  
+            
+Validation Loss: 3.5445648041136337  
+            
+Accuracy:  **0.9841479524438573**
+
+
 
 <a name="results"></a>
 
@@ -177,6 +205,38 @@ The final result of the model is:
 - Detect different types of masks (FFP1,FFP2...)
 
 
+<a name="conc"></a>
+
+## Conclusions
+
+In our way to find a useful detector of people wearing medical masks or not, we have learned a lot of new things that made all of our resources and academic training make sense. This project can still be improved a lot, but my team and I have learned many new libraries, many new commands and have discovered new ways of working that we had not seen before.
 
 
+We will still improve this project from these months onwards.
+
+
+Thanks.
+
+
+<a name="links"></a>
+
+## Links
+
+
+- https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+
+
+- https://github.com/AIZOOTech/FaceMaskDetection
+
+
+- https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+
+
+- https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
+
+
+- https://www.superdatascience.com/blogs/opencv-face-recognition
+
+
+- Many of our code-along notebooks :)
 
