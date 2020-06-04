@@ -1,5 +1,5 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxJeCuB5k5HcKTOqvVG_-Te5_Uf11HwQRIeZAIeJGpdN9VC3Bo&usqp=CAU" alt="masked" width="100" align="left"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxJeCuB5k5HcKTOqvVG_-Te5_Uf11HwQRIeZAIeJGpdN9VC3Bo&usqp=CAU" alt="masked" width="150" align="left"/>
 
 
 
@@ -8,6 +8,11 @@
 \
 \
 \
+\
+\
+
+
+
 
 
 # IH Data Bootcamp - Final Project - Medical Mask Detection
