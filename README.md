@@ -210,6 +210,8 @@ The final result of the model is:
 - Detect different types of masks (FFP1,FFP2...)
 
 
+- Detect if a person is wearing a mask not properly **(working on it)**
+
 <a name="conc"></a>
 
 ## Conclusions
